@@ -3,7 +3,7 @@
 </p>
 
 # Hi, I'm vynnXidn 🇮🇩
-[Instagram](https://instagram.com/vynxidn)  | [GitHub](https://github.com/vynnxidn)
+[Instagram](https://instagram.com/vynnnnxidn)  | [me](https://vynnxidn.github.io/me/)
 
 ```json
 {
