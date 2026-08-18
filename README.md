@@ -4,13 +4,13 @@
 
 # Hi, I'm vynnXidn 🇮🇩
 
-```json
+
 {
   "name": "vynxidn",
   "role": "Technical Student / Tech Enthusiast",
   "location": "Indonesia",
   "interests": ["learn", "learn", "Automation", "learn"]
 }
-```
 
-p
+[Instagram](https://instagram.com/vynxidn)  | [GitHub](https://github.com/vynnxidn)
+
