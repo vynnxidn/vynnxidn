@@ -3,8 +3,9 @@
 </p>
 
 # Hi, I'm vynnXidn 🇮🇩
+[Instagram](https://instagram.com/vynxidn)  | [GitHub](https://github.com/vynnxidn)
 
-
+```json
 {
   "name": "vynxidn",
   "role": "Technical Student / Tech Enthusiast",
@@ -12,5 +13,4 @@
   "interests": ["learn", "learn", "Automation", "learn"]
 }
 
-[Instagram](https://instagram.com/vynxidn)  | [GitHub](https://github.com/vynnxidn)
 
